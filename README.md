@@ -20,6 +20,7 @@ This is a web based application developed for health related website in india
 
 ## Screenshots
 
+![7e894aa5-b93e-4ea3-8224-d15b6c2e8592](https://github.com/Vedhavs/projectmed/assets/140597032/85a66287-ef1a-43ae-861f-c52f0cf4f81f)
 
 
 
@@ -29,17 +30,20 @@ This is a web based application developed for health related website in india
 
 ### About Us -
 
+![27d4f50b-2206-47ca-8f05-ce67b3825bc4](https://github.com/Vedhavs/projectmed/assets/140597032/e2313217-19ed-4bf2-8535-c4949f13db02)
 
 
 
 
 ### Contact Us -
 
+![fbfd6acf-62e3-466a-9c8a-89c9271cb90c](https://github.com/Vedhavs/projectmed/assets/140597032/583ca4dc-1833-42d2-b7b1-80eaf191b325)
 
 
 
 
 ## HealthBot
+![c02aeefb-6e26-4408-8a8c-e20e67d35fa9](https://github.com/Vedhavs/projectmed/assets/140597032/406bff45-0198-4ebf-9ccf-5e212d8fd76d)
 
 
 
