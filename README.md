@@ -19,7 +19,7 @@ This is a web based application developed for health related website in india
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-![Uploading 7e894aa5-b93e-4ea3-8224-d15b6c2e8592.jpg…]()
+
 
 
 
