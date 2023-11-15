@@ -9,7 +9,7 @@ This is a web based application developed for health related website in india
 
 **Project demo URL** - https://brave-sky-06177ac00.4.azurestaticapps.net/
 
-**Project demo vedio Link** - 
+**Project demo vedio Link** - https://youtu.be/HDPuQr_TExw?si=mA0OBao8_TKnXuhi
 
 
 ## Features and Functionalities 😃
